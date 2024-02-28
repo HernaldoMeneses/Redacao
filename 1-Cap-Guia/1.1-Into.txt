@@ -1,0 +1,12 @@
+Dissertação-Argumentativa
+    Defesa de tese (ideia) Fundamentada
+        Fatos
+        Dados
+Redação dissertativa-Argumentativa
+    1 - introdução
+        Contextualização do Tema (Proposto)
+        Tese (Qual a sua visão?)
+    2 - Desenvolvimento
+        Argumentação (Sustentação)
+    3 - Conclusão
+        Proposta (Solução)
