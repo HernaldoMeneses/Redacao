@@ -5,7 +5,7 @@ Dissertação-Argumentativa
 Redação dissertativa-Argumentativa
     1 - introdução
         Contextualização do Tema (Proposto)
-        Tese (Qual a sua visão?)
+        Tese (Qual a sua visão? ideia principal do texto)
     2 - Desenvolvimento
         Argumentação (Sustentação)
     3 - Conclusão
